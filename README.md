@@ -1,0 +1,2 @@
+# shellscript
+installconfig git githup
